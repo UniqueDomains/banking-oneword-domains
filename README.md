@@ -56,6 +56,8 @@ This regularly updated dataset includes the latest available Banking one-word do
 
 # All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Banking&utm_content=description.bottom)
 
+Search, filter and download the full database of one word domains.
+
 [![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/banking-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Banking&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
@@ -67,7 +69,7 @@ Every day, we curate the finest quality brandable domains that are not been buye
 
 ## General
 
-- [undefined One word domains](https://github.com/UniqueDomains/oneword-domains): 1,534,798 domains
+- [All One word domains](https://github.com/UniqueDomains/oneword-domains): 1,534,798 domains
 - [Expired One word domains](https://github.com/UniqueDomains/expired-oneword-domains): 15,425 domains
 - [Expiring One word domains](https://github.com/UniqueDomains/expiring-oneword-domains): 38,267 domains
 ## By Sector

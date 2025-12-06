@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [Banking one word domai
 | banking.xyz         | resell    | 76       | 88%    | 7      | Spaceship, Inc.                                                             | 06/05/2021 18:24 | 06/05/2026 23:59 |
 | deposit.ac          | available | 90       | 14%    | 7      |                                                                             |                  |                  |
 | deposit.academy     | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.accountant  | available | 90       | 14%    | 7      |                                                                             |                  |                  |
+| deposit.accountant  | premium   | 90       | 14%    | 7      |                                                                             |                  |                  |
 | deposit.accountants | available | 90       | 14%    | 7      |                                                                             |                  |                  |
 | deposit.actor       | available | 90       | 14%    | 7      |                                                                             |                  |                  |
 | deposit.adult       | available | 90       | 14%    | 7      |                                                                             |                  |                  |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [Banking one word domai
 | deposit.apartments  | available | 90       | 14%    | 7      |                                                                             |                  |                  |
 | deposit.archi       | available | 90       | 14%    | 7      |                                                                             |                  |                  |
 | deposit.army        | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.art         | available | 90       | 14%    | 7      |                                                                             |                  |                  |
+| deposit.art         | premium   | 90       | 14%    | 7      |                                                                             |                  |                  |
 | deposit.asia        | resell    | 90       | 14%    | 7      | GoDaddy.com, LLC                                                            | 10/04/2023 10:01 | 10/04/2026 10:01 |
 | deposit.associates  | available | 90       | 14%    | 7      |                                                                             |                  |                  |
 | deposit.at          | premium   | 90       | 14%    | 7      |                                                                             |                  |                  |

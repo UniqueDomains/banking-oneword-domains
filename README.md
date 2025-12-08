@@ -21,36 +21,36 @@ If you want to search & filters the complete database of [Banking one word domai
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar                                                                   | Created          | Expires          |
 | ------------------- | --------- | -------- | ------ | ------ | --------------------------------------------------------------------------- | ---------------- | ---------------- |
-| banking.app         | expiring  | 76       | 88%    | 7      | GoDaddy.com, LLC                                                            | 19/07/2020 08:25 | 19/07/2025 08:25 |
-| banking.at          | sold      | 76       | 88%    | 7      | cix.at - Internet services, Manfred Jambor ( https://nic.at/registrar/342 ) |                  |                  |
-| banking.cloud       | premium   | 76       | 88%    | 7      |                                                                             |                  |                  |
-| banking.gg          | resell    | 76       | 88%    | 7      | 1API (http://www.1api.net)                                                  |                  |                  |
-| banking.me          | premium   | 76       | 88%    | 7      | Nicnames, Inc.                                                              | 29/04/2008 17:59 | 29/04/2026 17:59 |
-| banking.ninja       | premium   | 76       | 88%    | 7      |                                                                             |                  |                  |
-| banking.site        | premium   | 76       | 88%    | 7      |                                                                             |                  |                  |
-| banking.space       | premium   | 76       | 88%    | 7      |                                                                             |                  |                  |
-| banking.store       | premium   | 76       | 88%    | 7      |                                                                             |                  |                  |
-| banking.tech        | resell    | 76       | 88%    | 7      | Dotserve Inc                                                                | 02/04/2019 14:11 | 02/04/2029 23:59 |
-| banking.xyz         | resell    | 76       | 88%    | 7      | Spaceship, Inc.                                                             | 06/05/2021 18:24 | 06/05/2026 23:59 |
-| deposit.ac          | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.academy     | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.accountant  | premium   | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.accountants | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.actor       | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.adult       | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.ai          | resell    | 90       | 14%    | 7      | NameSilo, LLC                                                               | 15/12/2017 23:33 | 09/04/2027 23:33 |
-| deposit.airforce    | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.apartments  | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.archi       | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.army        | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.art         | premium   | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.asia        | resell    | 90       | 14%    | 7      | GoDaddy.com, LLC                                                            | 10/04/2023 10:01 | 10/04/2026 10:01 |
-| deposit.associates  | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.at          | premium   | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.attorney    | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.auction     | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.audio       | available | 90       | 14%    | 7      |                                                                             |                  |                  |
-| deposit.auto        | available | 90       | 14%    | 7      |                                                                             |                  |                  |
+| banking.accountant  | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.accountants | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.actor       | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.adult       | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.agency      | resell    | 76       | 20%    | 7      | Sav.com, LLC - 37                                                           | 30/11/2024 17:00 | 30/11/2026 17:00 |
+| banking.airforce    | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.apartments  | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.app         | sold      | 76       | 20%    | 7      | GoDaddy.com, LLC                                                            | 19/07/2020 08:25 | 19/07/2026 08:25 |
+| banking.archi       | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.army        | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.art         | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.associates  | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.at          | sold      | 76       | 20%    | 7      | cix.at - Internet services, Manfred Jambor ( https://nic.at/registrar/342 ) |                  |                  |
+| banking.attorney    | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.auction     | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.audio       | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.auto        | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.autos       | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.baby        | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.band        | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.bar         | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.bargains    | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.bayern      | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.beauty      | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.beer        | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.berlin      | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.best        | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.bet         | expiring  | 76       | 20%    | 7      | Sav.com, LLC                                                                | 07/01/2025 17:17 | 07/01/2026 17:17 |
+| banking.bid         | available | 76       | 20%    | 7      |                                                                             |                  |                  |
+| banking.bike        | available | 76       | 20%    | 7      |                                                                             |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Banking-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Banking one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

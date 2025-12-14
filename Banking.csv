@@ -390,6 +390,15 @@ d18ceb39-50d9-4c08-8d57-b6ebc4454929,banking.yachts,premium,76,20,7,,,
 8e506993-a91e-467c-9757-4be13a680435,banking.yoga,available,76,20,7,,,
 6bfa6c6a-2ed6-4fb9-80e9-09ead823fe93,banking.you,resell,76,20,7,Porkbun LLC,10/11/2025 22:51,10/11/2026 22:51
 59655e0f-514a-4345-a220-a9d386634a0c,banking.zip,premium,76,20,7,,,
+03fc6557-3fba-484b-955e-02aa6264db9a,deposit.ngo,available,90,12,7,,,
+069ac5a6-e1b9-40cc-8301-0a703c08e777,deposit.ninja,available,90,12,7,,,
+b6779d22-fade-4172-8f0c-9b34a5da6c65,deposit.nyc,resell,90,12,7,Hello Internet Corp.,12/02/2016 04:38,11/02/2026 23:59
+496113b5-1cb2-4802-bebc-fa349282e200,deposit.observer,sold,90,12,7,Cloudflare,18/10/2025 17:03,18/10/2026 17:03
+f6dfebb9-0761-4f48-ac4b-17c60642c27b,deposit.one,premium,90,12,7,,,
+ae86d33a-deaa-4271-a61f-55fd12e92cbb,deposit.ong,available,90,12,7,,,
+f224bf00-e711-4476-ae84-abce08f6c59e,deposit.online,premium,90,12,7,,,
+d9c6f9ef-9407-45d8-b093-a2c6a988201c,deposit.ooo,available,90,12,7,,,
+ee322eac-b2a7-4a7a-a611-086a75563057,deposit.org,resell,90,12,7,"GoDaddy.com, LLC",07/10/2002 18:02,07/10/2026 18:02
 a28e33d5-7631-4435-b498-5dda05fd8bf1,deposit.organic,available,90,12,7,,,
 19c6d988-d7b5-4be2-a5d8-899563865c56,deposit.osaka,available,90,12,7,,,
 4991c3db-fcba-424c-ae39-96a31e1665b1,deposit.page,premium,90,12,7,,,
@@ -809,15 +818,6 @@ fb0add66-30b4-4434-aac5-ee5fc9926a69,deposit.navy,available,90,12,7,,,
 5a58fe0a-9b68-40a6-a7c6-c6ef9794935b,deposit.network,resell,90,12,7,"Sav.com, LLC - 13",25/06/2024 15:15,25/06/2026 15:15
 a27e9dc9-28d8-45c4-940d-0a9e9e6792fc,deposit.news,available,90,12,7,,,
 4a37942a-b5c1-4585-b91d-4b0b75a4749a,deposit.nexus,premium,90,12,7,,,
-03fc6557-3fba-484b-955e-02aa6264db9a,deposit.ngo,available,90,12,7,,,
-069ac5a6-e1b9-40cc-8301-0a703c08e777,deposit.ninja,available,90,12,7,,,
-b6779d22-fade-4172-8f0c-9b34a5da6c65,deposit.nyc,resell,90,12,7,Hello Internet Corp.,12/02/2016 04:38,11/02/2026 23:59
-496113b5-1cb2-4802-bebc-fa349282e200,deposit.observer,sold,90,12,7,Cloudflare,18/10/2025 17:03,18/10/2026 17:03
-f6dfebb9-0761-4f48-ac4b-17c60642c27b,deposit.one,premium,90,12,7,,,
-ae86d33a-deaa-4271-a61f-55fd12e92cbb,deposit.ong,available,90,12,7,,,
-f224bf00-e711-4476-ae84-abce08f6c59e,deposit.online,premium,90,12,7,,,
-d9c6f9ef-9407-45d8-b093-a2c6a988201c,deposit.ooo,available,90,12,7,,,
-ee322eac-b2a7-4a7a-a611-086a75563057,deposit.org,resell,90,12,7,"GoDaddy.com, LLC",07/10/2002 18:02,07/10/2026 18:02
 3bf3eb10-85d0-483c-b2b6-bff1b1f2c3b7,loan.at,sold,90,92,4,"cix.at - Internet services, Manfred Jambor ( https://nic.at/registrar/342 )",,
 546932a0-1f35-464e-81ee-814745ea36ba,loan.dev,premium,90,92,4,,,
 dcaa33b6-3219-4990-ba45-994034921cdf,loan.gg,resell,90,92,4,"humbly, LLC (http://park.io)",,

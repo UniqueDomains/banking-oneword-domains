@@ -395,8 +395,21 @@ d18ceb39-50d9-4c08-8d57-b6ebc4454929,banking.yachts,premium,76,19,7,,,
 8e506993-a91e-467c-9757-4be13a680435,banking.yoga,available,76,19,7,,,
 6bfa6c6a-2ed6-4fb9-80e9-09ead823fe93,banking.you,resell,76,19,7,Porkbun LLC,10/11/2025 22:51,10/11/2026 22:51
 59655e0f-514a-4345-a220-a9d386634a0c,banking.zip,premium,76,19,7,,,
+10a4ef41-8268-4215-bf11-b7ac331cdd3f,deposit.group,resell,90,12,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),05/12/2019 23:18,05/12/2026 23:18
+e11ef154-f6a9-4621-b6a6-2c2d92b11165,deposit.guide,available,90,12,7,,,
+5aa6200b-5a20-4056-8ec9-e42a0d61a6e5,deposit.guitars,available,90,12,7,,,
+f6e65f09-14e1-446c-abeb-d543624930e0,deposit.guru,sold,90,12,7,"GoDaddy.com, LLC",07/12/2025 04:06,07/12/2026 04:06
+8fb3d270-3a9d-4a20-a2b3-f6b0e4fcf41b,deposit.hair,available,90,12,7,,,
+c4ebda8f-5fb8-48af-9e01-a6ef88596502,deposit.haus,available,90,12,7,,,
+172d8cd3-f667-499a-8362-1eb3fb682e60,deposit.health,available,90,12,7,,,
+76cb30b8-73b5-4007-99a0-8cd56b2cfd04,deposit.healthcare,available,90,12,7,,,
+af0fbd43-37e2-4cb5-82d1-a4ea9e068eb2,deposit.help,premium,90,12,7,,,
+1e5b9afe-4a08-4acc-8eee-3349be4aff8d,deposit.hiphop,available,90,12,7,,,
+131b3d9e-b269-4062-964e-8f39d410e1f0,deposit.hiv,available,90,12,7,,,
+a2a5484e-b814-4179-81c7-7e433c4c1d85,deposit.hockey,available,90,12,7,,,
+3a142988-7bde-4a32-9969-6c009de4832e,deposit.holdings,available,90,12,7,,,
 1b7a8698-731a-4eb4-baf0-122dc906ff9b,deposit.holiday,available,90,12,7,,,
-18ab2e6f-7f4d-4411-9d7e-850b10d8e266,deposit.homes,resell,90,12,7,"Sav.com, LLC",19/01/2025 16:11,19/01/2026 23:59
+18ab2e6f-7f4d-4411-9d7e-850b10d8e266,deposit.homes,expiring,90,12,7,"Sav.com, LLC",19/01/2025 16:11,19/01/2026 23:59
 f467a907-09c6-4399-8de4-7a83adb5d4d3,deposit.horse,available,90,12,7,,,
 36284186-a48a-46a1-a3fd-443b5dc09577,deposit.hospital,available,90,12,7,,,
 f22e3683-a2c3-445a-a51a-99bd9a535a4e,deposit.host,premium,90,12,7,,,
@@ -429,7 +442,7 @@ f7c34f5d-7786-4657-95bb-7c22a89c8a3a,deposit.lat,expiring,90,12,7,Namecheap,29/1
 631bfad2-298a-4df9-be97-cd179e5e5bb2,deposit.law,sold,90,12,7,"GoDaddy.com, LLC",15/11/2025 19:41,15/11/2026 19:41
 73a35df6-e492-4be2-b04a-94a409611d43,deposit.lawyer,available,90,12,7,,,
 c4e9598a-299d-4118-8d2b-a71038f0db09,deposit.lease,available,90,12,7,,,
-1d10b01f-3658-4f78-9aa5-fbd7d2f44bc1,deposit.legal,sold,90,12,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,27/11/2024 13:38,27/11/2026 13:38
+1d10b01f-3658-4f78-9aa5-fbd7d2f44bc1,deposit.legal,expired,90,12,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,27/11/2024 13:38,27/11/2025 13:38
 8a92934f-e91d-4064-b593-0d5a3dda8127,deposit.lgbt,available,90,12,7,,,
 2d9517cf-6215-4fb1-b7b4-ff526fe65a41,deposit.life,resell,90,12,7,Dynadot Inc,09/03/2018 20:14,09/03/2026 20:14
 91fe5b3e-7c1d-4d24-93de-8d6d5e6c3351,deposit.lifestyle,premium,90,12,7,,,
@@ -638,7 +651,7 @@ ce7f7770-8237-44ca-a7f9-c4e58830d060,deposit.accountants,available,90,12,7,,,
 160cbd8b-ed78-4b41-97ca-41e9016e97fc,deposit.ai,resell,90,12,7,"NameSilo, LLC",15/12/2017 23:33,09/04/2027 23:33
 5d61579b-3fdd-4998-969a-f4bf38f768e2,deposit.airforce,available,90,12,7,,,
 c25f820d-fca2-4f8b-ac23-d487ef67bb01,deposit.apartments,available,90,12,7,,,
-53943df0-684f-413a-a44c-b16d8e9771ea,deposit.app,sold,90,12,7,Dynadot LLC.,09/12/2022 18:41,09/12/2026 18:41
+53943df0-684f-413a-a44c-b16d8e9771ea,deposit.app,resell,90,12,7,"Global Domains International, Inc. DBA DomainCostClub.com",09/12/2022 18:41,09/12/2026 18:41
 8fbf4651-29df-4f6c-9012-1c9563686238,deposit.archi,available,90,12,7,,,
 aca97f68-c876-4c6b-b05d-ceb82086382d,deposit.army,available,90,12,7,,,
 18cc0cd3-991b-42a2-9802-dd0b2b66c4dc,deposit.art,premium,90,12,7,,,
@@ -752,6 +765,7 @@ c14611b1-1bb8-4302-aaf6-548880babecf,deposit.delivery,available,90,12,7,,,
 bf70e589-fc82-42cb-b64f-ba9d0ed33226,deposit.dog,available,90,12,7,,,
 4d60393a-0f9a-4abb-92c4-ae61ffea4532,deposit.domains,available,90,12,7,,,
 09fe941b-602d-49d2-958c-fa8d1497909c,deposit.download,premium,90,12,7,,,
+79d8f9bd-52b3-44ef-b0dc-43b2013bdb9f,deposit.earth,expiring,90,12,7,"GoDaddy.com, LLC",14/01/2020 21:25,14/01/2026 21:25
 80993551-dc2d-4bf0-acf2-e77523aef55e,deposit.education,available,90,12,7,,,
 9d5b6cd5-e969-4567-a1a5-26ee99075d0b,deposit.energy,sold,90,12,7,Dynadot Inc,06/12/2025 15:05,06/12/2026 15:05
 44f286cd-cf9a-49f7-8f6b-b7a67cd26db6,deposit.engineer,available,90,12,7,,,
@@ -791,6 +805,7 @@ f5e4715c-42de-4a26-80e5-3b1c1c396892,deposit.football,available,90,12,7,,,
 e848ce6e-ee1c-471f-8303-b4d3e595f203,deposit.forum,premium,90,12,7,,,
 5db4937e-e409-4a3e-9fd3-738c10f974b5,deposit.foundation,available,90,12,7,,,
 5368e2d7-7016-4c2e-8706-003f3f38207c,deposit.free,premium,90,12,7,,,
+2d6efa11-4268-4490-83c4-0dc5468e8940,deposit.fund,expiring,90,12,7,Synergy Wholesale Accreditations Pty Ltd,16/01/2025 01:16,16/01/2026 01:16
 610bbbe7-05c9-4aba-8ad5-39e88539e6df,deposit.furniture,available,90,12,7,,,
 d89421d5-af37-4234-99d7-ba2f26741575,deposit.futbol,available,90,12,7,,,
 c7624914-d017-4f3e-a4a8-fb4607b95750,deposit.fyi,resell,90,12,7,Dynadot Inc,10/02/2023 17:24,10/02/2026 17:24
@@ -812,19 +827,6 @@ c1418220-4051-48f2-84a9-5cbcbc2fb28d,deposit.gmbh,available,90,12,7,,,
 a0d04d89-996d-4649-85f8-b50fe38de577,deposit.graphics,available,90,12,7,,,
 de35d1e8-e85d-461b-9c0c-9fe0f15dce1b,deposit.gratis,available,90,12,7,,,
 66df7aef-575b-4940-8bb5-00377f0a67b1,deposit.gripe,available,90,12,7,,,
-10a4ef41-8268-4215-bf11-b7ac331cdd3f,deposit.group,resell,90,12,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),05/12/2019 23:18,05/12/2026 23:18
-e11ef154-f6a9-4621-b6a6-2c2d92b11165,deposit.guide,available,90,12,7,,,
-5aa6200b-5a20-4056-8ec9-e42a0d61a6e5,deposit.guitars,available,90,12,7,,,
-f6e65f09-14e1-446c-abeb-d543624930e0,deposit.guru,sold,90,12,7,"GoDaddy.com, LLC",07/12/2025 04:06,07/12/2026 04:06
-8fb3d270-3a9d-4a20-a2b3-f6b0e4fcf41b,deposit.hair,available,90,12,7,,,
-c4ebda8f-5fb8-48af-9e01-a6ef88596502,deposit.haus,available,90,12,7,,,
-172d8cd3-f667-499a-8362-1eb3fb682e60,deposit.health,available,90,12,7,,,
-76cb30b8-73b5-4007-99a0-8cd56b2cfd04,deposit.healthcare,available,90,12,7,,,
-af0fbd43-37e2-4cb5-82d1-a4ea9e068eb2,deposit.help,premium,90,12,7,,,
-1e5b9afe-4a08-4acc-8eee-3349be4aff8d,deposit.hiphop,available,90,12,7,,,
-131b3d9e-b269-4062-964e-8f39d410e1f0,deposit.hiv,available,90,12,7,,,
-a2a5484e-b814-4179-81c7-7e433c4c1d85,deposit.hockey,available,90,12,7,,,
-3a142988-7bde-4a32-9969-6c009de4832e,deposit.holdings,available,90,12,7,,,
 3bf3eb10-85d0-483c-b2b6-bff1b1f2c3b7,loan.at,sold,90,92,4,"cix.at - Internet services, Manfred Jambor ( https://nic.at/registrar/342 )",,
 546932a0-1f35-464e-81ee-814745ea36ba,loan.dev,premium,90,92,4,,,
 dcaa33b6-3219-4990-ba45-994034921cdf,loan.gg,resell,90,92,4,"humbly, LLC (http://park.io)",,
@@ -913,7 +915,7 @@ c7a781e8-4a87-4254-911f-20ec5b7e0084,account.consulting,premium,98,27,7,,,
 b362ffd2-cd28-4e0e-a2f4-1b665c104d53,account.cricket,available,98,27,7,,,
 03d60824-cd23-43e8-bb7c-fa8b8ccafc2a,account.cruises,premium,98,27,7,,,
 a143a22b-aa49-490f-8d1b-8a29e15a2615,account.cv,premium,98,27,7,,,
-b76ddc7f-2784-4448-b06b-ed114ab48b88,account.cx,expired,98,27,7,CentralNic Ltd,15/11/2024 00:00,15/11/2025 11:49
+b76ddc7f-2784-4448-b06b-ed114ab48b88,account.cx,premium,98,27,7,,,
 aae7911e-be33-4882-899c-29d01d0aa4ee,account.cyou,premium,98,27,7,,,
 dba7bfba-943a-4086-866a-f177221c60d3,account.dad,premium,98,27,7,,,
 a47b8e1e-5a3f-47e5-9443-202003014213,account.dance,available,98,27,7,,,
@@ -997,5 +999,3 @@ bd2f30d6-ce44-48ef-afbe-9aa4b1b0dac0,account.horse,available,98,27,7,,,
 ca04cd5f-3932-4142-8072-610774466109,account.host,premium,98,27,7,,,
 7376b585-541a-4f9b-9c29-084a57386212,account.hot,premium,98,27,7,,,
 5e6769c6-c80f-441e-bdcb-afabd8856d2b,account.how,premium,98,27,7,,,
-ed93a422-c889-4392-a94a-fafd38ab55b6,account.icu,premium,98,27,7,,,
-f8acb252-3074-4416-a647-3c2c818b1239,account.im,premium,98,27,7,,,

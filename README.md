@@ -1,22 +1,22 @@
-# Banking One-Word Domains (16,840)
+# Banking One-Word Domains (0)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C840%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-0%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of banking one-word domains from Unique Domains.
+Daily-updated dataset of banking one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,840 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 10,000 rows · **Live catalog:** 16,840 domains
+**Public extract:** 10,000 rows · **Live catalog:** 0 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/sector/banking`  
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ---------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------- |
 | assetmanagement.ninja  | available | $42.98      | —             | 68             | 88     | 16     | namecheap       |
 | loan.pro               | resell    | $9,568      | $33.99        | 90             | 92     | 4      | Porkbun LLC     |
-| commercial.shop        | premium   | $1,250      | $1,250        | 91             | 98     | 10     | name.com        |
+| commercial.rentals     | premium   | $128.70     | $128.70       | 91             | 98     | 10     | namecheap       |
 | assetmanagement.gg     | available | $82.98      | —             | 68             | 88     | 16     | namecheap       |
 | checking.me            | resell    | $1,148.85   | $26.99        | 62             | 80     | 8      | NameCheap, Inc. |
-| commercial.rentals     | premium   | $128.70     | $128.70       | 91             | 98     | 10     | namecheap       |
+| mortgage.tech          | premium   | $781.25     | $3,125        | 80             | 96     | 8      | name.com        |
 | assetmanagement.expert | available | $82.48      | —             | 68             | 88     | 16     | namecheap       |
 | private.io             | resell    | $263,233.85 | $59.99        | 86             | 40     | 7      | Divido Ltd      |
-| mortgage.tech          | premium   | $781.25     | $3,125        | 80             | 96     | 8      | name.com        |
+| mortgage.store         | premium   | $1,562.50   | $6,250        | 80             | 96     | 8      | name.com        |
 | checking.zone          | available | $14.99      | $46.99        | 62             | 80     | 8      | name.com        |
 | accounts.app           | resell    | $23,384.10  | $248.75       | 50             | 40     | 8      | Dynadot LLC.    |
-| mortgage.store         | premium   | $1,562.50   | $6,250        | 80             | 96     | 8      | name.com        |
+| mortgage.space         | premium   | $1,625      | $6,500        | 80             | 96     | 8      | namecheap       |
 | checking.ninja         | available | $9.99       | $34.99        | 62             | 80     | 8      | name.com        |
 | risk.design            | resell    | $59.98      | —             | 62             | 38     | 4      | Dynadot Inc     |
-| mortgage.space         | premium   | $1,625      | $6,500        | 80             | 96     | 8      | namecheap       |
+| mortgage.site          | premium   | $1,562.50   | $6,250        | 80             | 96     | 8      | name.com        |
 | checking.gg            | available | $70.98      | —             | 62             | 80     | 8      | namecheap       |
 | account.monster        | resell    | $19.98      | —             | 98             | 34     | 7      | Spaceship, Inc. |
-| mortgage.site          | premium   | $1,562.50   | $6,250        | 80             | 96     | 8      | name.com        |
+| mortgage.online        | premium   | $7,812.50   | $31,250       | 80             | 96     | 8      | name.com        |
 | checking.expert        | available | $11.99      | $77.99        | 62             | 80     | 8      | name.com        |
 | retail.info            | resell    | $4,145.75   | —             | 74             | 33     | 6      | NameSilo, LLC   |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract           | Unique Domains                                   |
 | ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 16,840 live domains                              |
+| 10,000-row public sample | 0 live domains                                   |
 | Static CSV / JSON        | live search and daily refresh                    |
 | Basic exported fields    | deeper price, demand, risk, and workflow context |
 | No persistence           | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Banking One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Banking One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

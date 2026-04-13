@@ -4,9 +4,9 @@ title: "Banking One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-12"
-date-released: "2026-04-12"
+version: "2026-04-13"
+date-released: "2026-04-13"
 url: "https://unique.domains/domains/sector/banking"
 repository-code: "https://github.com/UniqueDomains/banking-oneword-domains"
 license: "See LICENSE"
-abstract: "Daily-updated public extract of banking one-word domains from Unique Domains."
+abstract: "Daily-updated dataset of banking one-word domains from Unique Domains."

@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Banking One-Word Domains"
+title: "Banking Keyword Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-26"
-date-released: "2026-04-26"
+version: "2026-05-04"
+date-released: "2026-05-04"
 url: "https://unique.domains/domains/sector/Banking"
 repository-code: "https://github.com/UniqueDomains/banking-oneword-domains"
 license: "See LICENSE"

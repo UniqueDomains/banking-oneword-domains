@@ -1,10 +1,10 @@
-# Banking Keyword Domains (23,737)
+# Banking Keyword Domains (23,751)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C737%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C751%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These are domains connected to the banking keyword, spread across 505 TLDs and 23,737 listings. Updated daily. Median ask is $1,082, so this selection suits buyers comparing keyword relevance, TLD fit, and renewal risk before choosing a banking-related name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,737 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,751 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,737 domains · **Median ask:** $1,082.19 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 23,751 domains · **Median ask:** $1,082.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-04  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/sector/Banking`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                |
 | ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------ |
 | bank.christmas   | available | $49.98     | —             | 70             | 40     | 4      | namecheap                |
-| banking.org      | resell    | $201,250   | $21.99        | 76             | 23     | 7      | GoDaddy.com, LLC         |
+| banking.org      | resell    | $201,250   | $21.99        | 76             | 24     | 7      | GoDaddy.com, LLC         |
 | finance.tech     | premium   | $3,125     | $12,500       | 96             | 88     | 7      | name.com                 |
-| bank.desi        | available | $22.98     | —             | 70             | 38     | 4      | namecheap                |
-| banking.co       | resell    | $19,380.95 | $48.99        | 76             | 23     | 7      | GoDaddy.com, LLC         |
+| bank.desi        | available | $22.98     | —             | 70             | 39     | 4      | namecheap                |
+| banking.contact  | resell    | $16.78     | —             | 76             | 24     | 7      | Dynadot Inc              |
 | finance.store    | premium   | $781.25    | $3,125        | 96             | 88     | 7      | name.com                 |
-| bank.barcelona   | available | $38.98     | —             | 70             | 38     | 4      | namecheap                |
-| finance.xyz      | resell    | —          | —             | 96             | 88     | 7      | Spaceship, Inc.          |
+| bank.barcelona   | available | $38.98     | —             | 70             | 39     | 4      | namecheap                |
+| banking.co       | resell    | $19,380.95 | $48.99        | 76             | 24     | 7      | GoDaddy.com, LLC         |
 | finance.space    | premium   | $3,250     | $13,000       | 96             | 88     | 7      | namecheap                |
 | financial.xxx    | available | $154.98    | —             | 66             | 26     | 9      | namecheap                |
-| finance.us       | resell    | —          | —             | 96             | 88     | 7      | GrepApps Technology Inc. |
+| finance.xyz      | resell    | —          | —             | 96             | 88     | 7      | Spaceship, Inc.          |
 | finance.site     | premium   | $3,125     | $12,500       | 96             | 88     | 7      | name.com                 |
 | financial.sex    | available | $154.98    | —             | 66             | 26     | 9      | namecheap                |
-| finance.net      | resell    | —          | —             | 96             | 88     | 7      | Tucows Domains Inc.      |
+| finance.us       | resell    | —          | —             | 96             | 88     | 7      | GrepApps Technology Inc. |
 | finance.online   | premium   | $7,812.50  | $31,250       | 96             | 88     | 7      | name.com                 |
 | financial.ryukyu | available | $22.98     | —             | 66             | 26     | 9      | namecheap                |
-| finance.co       | resell    | —          | —             | 96             | 88     | 7      | Dynadot Inc              |
-| bank.space       | premium   | $1,625     | $6,500        | 70             | 38     | 4      | namecheap                |
+| finance.net      | resell    | —          | —             | 96             | 88     | 7      | Tucows Domains Inc.      |
+| bank.space       | premium   | $1,625     | $6,500        | 70             | 39     | 4      | namecheap                |
 | financial.new    | available | $549.99    | —             | 66             | 26     | 9      | name.com                 |
-| finance.app      | resell    | —          | —             | 96             | 88     | 7      | 101domain, Inc.          |
+| finance.co       | resell    | —          | —             | 96             | 88     | 7      | Dynadot Inc              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,737 live domains                        |
+| 1,000-row public sample | 23,751 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Banking Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Banking Keyword Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

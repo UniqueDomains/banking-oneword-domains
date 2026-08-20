@@ -16,7 +16,7 @@ This selection includes 176,177 one-word domain names tied to the banking theme,
 
 **Public extract:** 1,000 rows · **Live catalog:** 192,148 domains · **Median ask:** $661.56 · **High-demand under $2,500:** 717
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/banking`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| card.financial   | available | $29.99    | —             | medium         | medium | 4      | name.com           |
+| safe.fund        | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.    |
+| fee.loans        | available | $19.99    | —             | high           | low    | 3      | name.com           |
 | trade.online     | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc |
 | fee.cash         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo           |
-| debt.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap          |
+| card.financial   | available | $29.99    | —             | medium         | medium | 4      | name.com           |
 | pay.finance      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc        |
 | fee.financial    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo           |
-| lend.investments | available | $14.99    | —             | high           | low    | 4      | name.com           |
-| bank.group       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC        |
+| fund.realty      | available | $109.99   | $299          | high           | low    | 4      | namesilo           |
+| tax.bond         | resell    | —         | —             | high           | medium | 3      | Dynadot LLC        |
 | fee.loan         | premium   | $625      | —             | high           | low    | 3      | name.com           |
-| risk.cash        | available | $50.98    | —             | medium         | low    | 4      | namecheap          |
-| bank.money       | resell    | —         | —             | high           | low    | 4      | 1API GmbH          |
+| lend.creditcard  | available | $9.99     | —             | high           | low    | 4      | name.com           |
+| tax.co           | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC   |
 | pay.investments  | premium   | $242      | $242          | high           | medium | 3      | namesilo           |
-| risk.loans       | available | $19.99    | —             | medium         | low    | 4      | name.com           |
-| card.finance     | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.    |
+| lend.investments | available | $14.99    | —             | high           | low    | 4      | name.com           |
+| bank.money       | resell    | —         | —             | high           | low    | 4      | 1API GmbH          |
 | tax.cash         | premium   | $500      | —             | high           | medium | 3      | name.com           |
-| save.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap          |
-| card.money       | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC   |
-| tax.loan         | premium   | $625      | —             | high           | medium | 3      | name.com           |
-| asset.bargains   | available | $14.98    | $37.98        | medium         | low    | 5      | namecheap          |
-| debt.cash        | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.       |
+| risk.cash        | available | $50.98    | —             | medium         | low    | 4      | namecheap          |
+| card.finance     | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.    |
+| tax.creditcard   | premium   | $242      | $242          | high           | medium | 3      | namesilo           |
+| risk.loans       | available | $19.99    | —             | medium         | low    | 4      | name.com           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Banking Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Banking Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

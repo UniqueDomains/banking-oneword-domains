@@ -1,10 +1,10 @@
-# One-Word Banking Domain Names (192,901)
+# One-Word Banking Domain Names (194,467)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-192%2C901%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-194%2C467%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 176,177 one-word domain names tied to the banking theme, spanning 506 TLDs. The median asking price is near $730. Updated daily, it gives investors and founders a concrete set of banking-related domains to compare on price, TLD, and brandability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **192,901 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **194,467 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 192,901 domains · **Median ask:** $659.23 · **High-demand under $2,500:** 717
+**Public extract:** 1,000 rows · **Live catalog:** 194,467 domains · **Median ask:** $662.28 · **High-demand under $2,500:** 715
 
 **Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/sector/banking`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| safe.fund           | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.    |
-| fee.loans           | available | $19.99    | —             | high           | low    | 3      | name.com           |
-| trade.online        | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc |
-| fee.cash            | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo           |
-| card.financial      | available | $29.99    | —             | medium         | medium | 4      | name.com           |
-| business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC       |
-| fee.financial       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo           |
-| fund.gmbh           | available | $45.99    | $45.99        | high           | low    | 4      | namesilo           |
-| pay.finance         | resell    | —         | —             | high           | medium | 3      | Dynadot Inc        |
-| fee.loan            | premium   | $625      | —             | high           | low    | 3      | name.com           |
-| lend.creditcard     | available | $9.99     | —             | high           | low    | 4      | name.com           |
-| tax.bond            | resell    | —         | —             | high           | medium | 3      | Dynadot LLC        |
-| pay.investments     | premium   | $242      | $242          | high           | medium | 3      | namesilo           |
-| lend.investments    | available | $14.99    | —             | high           | low    | 4      | name.com           |
-| tax.co              | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC   |
-| tax.cash            | premium   | $500      | —             | high           | medium | 3      | name.com           |
-| peer.financial      | available | $29.99    | —             | high           | low    | 4      | name.com           |
-| tax.credit          | resell    | —         | —             | high           | medium | 3      | Dynadot Inc        |
-| tax.creditcard      | premium   | $242      | $242          | high           | medium | 3      | namesilo           |
-| peer.investments    | available | $14.99    | —             | high           | low    | 4      | name.com           |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| bond.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap         |
+| pay.healthcare    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| deal.shop         | premium   | $12,500   | —             | medium         | low    | 4      | name.com          |
+| paid.loans        | available | $17.48    | $144.98       | medium         | low    | 4      | namecheap         |
+| pay.one           | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| lend.shop         | premium   | $2,500    | —             | high           | low    | 4      | name.com          |
+| stem.cash         | available | $4.98     | $50.98        | medium         | low    | 4      | namecheap         |
+| web.finance       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| paid.mortgage     | premium   | $242      | $242          | medium         | low    | 4      | namesilo          |
+| asset.game        | available | $309.99   | $329.99       | medium         | low    | 5      | namesilo          |
+| bank.football     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| real.fun          | premium   | $1,562.50 | —             | high           | medium | 4      | name.com          |
+| bills.financial   | available | $29.99    | —             | medium         | low    | 5      | name.com          |
+| debt.law          | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| save.shop         | premium   | $3,125    | —             | high           | low    | 4      | name.com          |
+| bills.investments | available | $14.99    | —             | medium         | low    | 5      | name.com          |
+| fund.network      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| asset.store       | premium   | $1,562.50 | $6,250        | medium         | low    | 5      | name.com          |
+| loans.band        | available | $29.99    | —             | medium         | low    | 5      | name.com          |
+| fund.travel       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 192,901 live domains                       |
+| 1,000-row public sample | 194,467 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 717 high-demand names under $2,500         |
+| Basic exported fields   | 715 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

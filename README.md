@@ -16,7 +16,7 @@ This selection includes 176,177 one-word domain names tied to the banking theme,
 
 **Public extract:** 1,000 rows · **Live catalog:** 194,467 domains · **Median ask:** $662.28 · **High-demand under $2,500:** 715
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-24
 **Canonical page:** `https://unique.domains/domains/sector/banking`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| bond.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap         |
-| pay.healthcare    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| deal.shop         | premium   | $12,500   | —             | medium         | low    | 4      | name.com          |
-| paid.loans        | available | $17.48    | $144.98       | medium         | low    | 4      | namecheap         |
-| pay.one           | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
-| lend.shop         | premium   | $2,500    | —             | high           | low    | 4      | name.com          |
-| stem.cash         | available | $4.98     | $50.98        | medium         | low    | 4      | namecheap         |
-| web.finance       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| paid.mortgage     | premium   | $242      | $242          | medium         | low    | 4      | namesilo          |
-| asset.game        | available | $309.99   | $329.99       | medium         | low    | 5      | namesilo          |
-| bank.football     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
-| real.fun          | premium   | $1,562.50 | —             | high           | medium | 4      | name.com          |
-| bills.financial   | available | $29.99    | —             | medium         | low    | 5      | name.com          |
-| debt.law          | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
-| save.shop         | premium   | $3,125    | —             | high           | low    | 4      | name.com          |
-| bills.investments | available | $14.99    | —             | medium         | low    | 5      | name.com          |
-| fund.network      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
-| asset.store       | premium   | $1,562.50 | $6,250        | medium         | low    | 5      | name.com          |
-| loans.band        | available | $29.99    | —             | medium         | low    | 5      | name.com          |
-| fund.travel       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33 |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| fee.loans        | available | $19.99    | —             | high           | low    | 3      | name.com           |
+| trade.online     | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc |
+| fee.cash         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo           |
+| card.financial   | available | $29.99    | —             | medium         | medium | 4      | name.com           |
+| pay.finance      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc        |
+| fee.financial    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo           |
+| deal.ryukyu      | available | $22.98    | —             | medium         | low    | 4      | namecheap          |
+| tax.co           | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC   |
+| fee.loan         | premium   | $625      | —             | high           | low    | 3      | name.com           |
+| fund.realty      | available | $109.99   | $299          | high           | low    | 4      | namesilo           |
+| bank.money       | resell    | —         | —             | high           | low    | 4      | 1API GmbH          |
+| pay.investments  | premium   | $242      | $242          | high           | medium | 3      | namesilo           |
+| lend.investments | available | $14.99    | —             | high           | low    | 4      | name.com           |
+| card.finance     | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.    |
+| tax.cash         | premium   | $500      | —             | high           | medium | 3      | name.com           |
+| risk.cash        | available | $50.98    | —             | medium         | low    | 4      | namecheap          |
+| card.money       | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC   |
+| tax.creditcard   | premium   | $242      | $242          | high           | medium | 3      | namesilo           |
+| risk.loans       | available | $19.99    | —             | medium         | low    | 4      | name.com           |
+| city.farm        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Banking Domain Names*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Banking Domain Names*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

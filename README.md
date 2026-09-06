@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| safe.fund        | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.    |
-| fee.loans        | available | $19.99    | —             | high           | low    | 3      | name.com           |
-| trade.online     | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc |
-| fee.cash         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo           |
-| card.financial   | available | $29.99    | —             | medium         | medium | 4      | name.com           |
-| pay.finance      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc        |
-| fee.financial    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo           |
-| fund.realty      | available | $109.99   | $299          | high           | low    | 4      | namesilo           |
-| tax.bond         | resell    | —         | —             | high           | medium | 3      | Dynadot LLC        |
-| fee.loan         | premium   | $625      | —             | high           | low    | 3      | name.com           |
-| lend.investments | available | $14.99    | —             | high           | low    | 4      | name.com           |
-| tax.co           | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC   |
-| pay.investments  | premium   | $242      | $242          | high           | medium | 3      | namesilo           |
-| risk.cash        | available | $50.98    | —             | medium         | low    | 4      | namecheap          |
-| bank.money       | resell    | —         | —             | high           | low    | 4      | 1API GmbH          |
-| tax.cash         | premium   | $500      | —             | high           | medium | 3      | name.com           |
-| save.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap          |
-| card.finance     | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.    |
-| tax.creditcard   | premium   | $242      | $242          | high           | medium | 3      | namesilo           |
-| asset.bargains   | available | $14.98    | $37.98        | medium         | low    | 5      | namecheap          |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
+| fee.ryukyu        | available | $22.98    | —             | high           | low    | 3      | namecheap                                          |
+| asset.love        | resell    | $4.98     | $38.98        | medium         | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
+| lend.shop         | premium   | $2,500    | —             | high           | low    | 4      | name.com                                           |
+| paid.loans        | available | $17.48    | $144.98       | medium         | low    | 4      | namecheap                                          |
+| pay.healthcare    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                    |
+| rule.investments  | premium   | $128.70   | $128.70       | low            | low    | 4      | namecheap                                          |
+| bills.financial   | available | $29.99    | —             | medium         | low    | 5      | name.com                                           |
+| pay.one           | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                   |
+| bills.loan        | premium   | $6,250    | —             | medium         | low    | 5      | name.com                                           |
+| bills.house       | available | $27.99    | —             | medium         | low    | 5      | name.com                                           |
+| city.apartments   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                        |
+| dough.cash        | premium   | $38.94    | $38.94        | medium         | low    | 5      | namesilo                                           |
+| bills.investments | available | $14.99    | —             | medium         | low    | 5      | name.com                                           |
+| debt.law          | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                   |
+| entry.loan        | premium   | $448      | $53.92        | low            | low    | 5      | namesilo                                           |
+| bills.maison      | available | $19.99    | —             | medium         | low    | 5      | name.com                                           |
+| fund.travel       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33                                  |
+| loans.army        | premium   | $78.54    | $78.54        | medium         | low    | 5      | namesilo                                           |
+| entry.financial   | available | $17.48    | $66.98        | low            | low    | 5      | namecheap                                          |
+| asset.co          | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

@@ -16,7 +16,7 @@ This selection includes 176,177 one-word domain names tied to the banking theme,
 
 **Public extract:** 1,000 rows · **Live catalog:** 201,110 domains · **Median ask:** $645.70 · **High-demand under $2,500:** 710
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/sector/banking`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
 | bond.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap             |
-| bank.football    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC          |
+| web.finance      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC           |
 | fee.shop         | premium   | $2,500    | —             | high           | low    | 3      | name.com              |
 | debt.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap             |
-| bank.group       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
-| pay.investments  | premium   | $242      | $242          | high           | medium | 3      | namesilo              |
-| fees.financial   | available | $29.99    | —             | medium         | low    | 4      | name.com              |
-| bank.money       | resell    | —         | —             | high           | low    | 4      | 1API GmbH             |
+| bank.football    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC          |
 | tax.cash         | premium   | $500      | —             | high           | medium | 3      | name.com              |
 | lend.investments | available | $14.99    | —             | high           | low    | 4      | name.com              |
-| card.money       | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC      |
+| bank.group       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
 | tax.loan         | premium   | $625      | —             | high           | medium | 3      | name.com              |
 | risk.actor       | available | $9.48     | $54.98        | medium         | low    | 4      | namecheap             |
-| debt.cash        | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.          |
-| bond.investments | premium   | $500      | —             | high           | low    | 4      | name.com              |
-| save.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap             |
 | fund.finance     | resell    | —         | —             | high           | low    | 4      | Ledl.net GmbH & Co KG |
-| bond.loan        | premium   | $6,250    | —             | high           | low    | 4      | name.com              |
-| bills.ventures   | available | $19.99    | —             | medium         | low    | 5      | name.com              |
+| city.shop        | premium   | $12,500   | —             | high           | medium | 4      | name.com              |
+| asset.cat        | available | $26.98    | $38.98        | medium         | low    | 5      | namecheap             |
 | fund.management  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
+| fund.financial   | premium   | $242      | $242          | high           | low    | 4      | namesilo              |
+| bills.capital    | available | $9.99     | —             | medium         | low    | 5      | name.com              |
+| fund.network     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
+| fund.investments | premium   | $500      | —             | high           | low    | 4      | name.com              |
+| bills.markets    | available | $9.99     | —             | medium         | low    | 5      | name.com              |
+| risk.vc          | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Banking Domain Names*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Banking Domain Names*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -1,10 +1,10 @@
-# One-Word Banking Domain Names (120,007)
+# One-Word Banking Domain Names (126,396)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-120%2C007%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-126%2C396%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 176,177 one-word domain names tied to the banking theme, spanning 506 TLDs. The median asking price is near $730. Updated daily, it gives investors and founders a concrete set of banking-related domains to compare on price, TLD, and brandability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **120,007 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **126,396 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 120,007 domains · **Median ask:** $546.23 · **High-demand under $2,500:** 214
+**Public extract:** 1,000 rows · **Live catalog:** 126,396 domains · **Median ask:** $529.94 · **High-demand under $2,500:** 214
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-22
 **Canonical page:** `https://unique.domains/domains/sector/banking`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| paid.church         | available | $8.48     | $78.98        | medium         | low    | 4      | namecheap         |
-| mortgages.solutions | resell    | $5.99     | —             | low            | low    | 9      | name.com          |
-| log.shop            | premium   | $2,500    | —             | high           | low    | 3      | name.com          |
-| paid.deal           | available | $38.98    | $48.98        | medium         | low    | 4      | namecheap         |
-| pay.healthcare      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| fund.cash           | premium   | $512      | $512          | medium         | low    | 4      | namesilo          |
-| paid.education      | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo          |
-| pay.one             | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
-| lend.shop           | premium   | $2,500    | —             | high           | low    | 4      | name.com          |
-| paid.football       | available | $19.99    | $37.99        | medium         | low    | 4      | name.com          |
-| bank.group          | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
-| paid.foo            | premium   | $623.75   | $623.75       | medium         | low    | 4      | name.com          |
-| paid.futbol         | available | $5.98     | $21.98        | medium         | low    | 4      | namecheap         |
-| bank.money          | resell    | —         | —             | high           | low    | 4      | 1API GmbH         |
-| paid.london         | premium   | $135.50   | $59.99        | medium         | low    | 4      | name.com          |
-| paid.gmbh           | available | $45.99    | $45.99        | medium         | low    | 4      | namesilo          |
-| deal.marketing      | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC - 45 |
-| save.shop           | premium   | $3,125    | —             | high           | low    | 4      | name.com          |
-| paid.golf           | available | $6.98     | $83.98        | medium         | low    | 4      | namecheap         |
-| debt.law            | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| atm.airforce  | available | $103.99   | $103.99       | low            | low    | 3      | namesilo            |
+| atm.link      | resell    | —         | —             | low            | low    | 3      | —                   |
+| atm.beer      | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo            |
+| atm.cars      | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo            |
+| atm.marketing | resell    | —         | —             | low            | low    | 3      | —                   |
+| atm.deal      | premium   | $116      | $116          | low            | low    | 3      | namesilo            |
+| atm.cheap     | available | $8.99     | $36.49        | low            | low    | 3      | namesilo            |
+| hub.ceo       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.     |
+| atm.gratis    | premium   | $26       | $26           | low            | low    | 3      | namecheap           |
+| atm.golf      | available | $6.98     | $83.98        | low            | low    | 3      | namecheap           |
+| law.delivery  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC    |
+| atm.lighting  | premium   | $26       | $26           | low            | low    | 3      | namecheap           |
+| atm.rest      | available | $1.80     | $41.98        | low            | low    | 3      | namecheap           |
+| bank.ac       | resell    | —         | —             | high           | low    | 4      | 1API GmbH           |
+| atm.poker     | premium   | $85.80    | $85.80        | low            | low    | 3      | namecheap           |
+| atm.rich      | available | $94.99    | $1,999        | low            | low    | 3      | namesilo            |
+| bank.agency   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC    |
+| atm.town      | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo            |
+| atm.salon     | available | $57.99    | $57.99        | low            | low    | 3      | namesilo            |
+| bank.ai       | resell    | —         | —             | high           | low    | 4      | Netherlands Domains |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 120,007 live domains                       |
+| 1,000-row public sample | 126,396 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 214 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Banking Domain Names*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Banking Domain Names*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

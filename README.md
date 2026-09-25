@@ -1,10 +1,10 @@
-# One-Word Banking Domain Names (87,649)
+# One-Word Banking Domain Names (76,136)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-87%2C649%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-76%2C136%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 176,177 one-word domain names tied to the banking theme, spanning 506 TLDs. The median asking price is near $730. Updated daily, it gives investors and founders a concrete set of banking-related domains to compare on price, TLD, and brandability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **87,649 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **76,136 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 87,649 domains · **Median ask:** $471.86 · **High-demand under $2,500:** 204
+**Public extract:** 1,000 rows · **Live catalog:** 76,136 domains · **Median ask:** $469.53 · **High-demand under $2,500:** 125
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/banking`
@@ -68,22 +68,22 @@ print(df.head())
 | banking.church   | available | $11.99     | —             | high           | low    | 7      | name.com         |
 | credit.solar     | resell    | —          | —             | high           | low    | 6      | Name.com, Inc.   |
 | bank.actor       | available | $19.99     | —             | high           | low    | 4      | name.com         |
-| loan.pro         | resell    | $9,568     | $33.99        | high           | high   | 4      | Porkbun LLC      |
+| banking.co       | resell    | $19,380.95 | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
 | bank.accountant  | premium   | $12,500    | —             | high           | low    | 4      | name.com         |
 | bank.airforce    | available | $103.99    | $103.99       | high           | low    | 4      | namesilo         |
-| banking.co       | resell    | $19,380.95 | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| banking.contact  | resell    | $16.78     | —             | high           | low    | 7      | Dynadot Inc      |
 | bank.accountants | premium   | $500       | —             | high           | low    | 4      | name.com         |
 | bank.apartments  | available | $19.99     | —             | high           | low    | 4      | name.com         |
-| banking.contact  | resell    | $16.78     | —             | high           | low    | 7      | Dynadot Inc      |
+| banking.me       | resell    | $7,015     | $26.99        | high           | low    | 7      | Spaceship, Inc.  |
 | bank.army        | premium   | $78.54     | $78.54        | high           | low    | 4      | namesilo         |
 | bank.audio       | available | $104.99    | $114.99       | high           | low    | 4      | namesilo         |
-| banking.me       | resell    | $7,015     | $26.99        | high           | low    | 7      | Spaceship, Inc.  |
+| banking.org      | resell    | $201,250   | $21.99        | high           | low    | 7      | GoDaddy.com, LLC |
 | bank.associates  | premium   | $500       | —             | high           | low    | 4      | name.com         |
 | bank.auto        | available | $1,999.99  | $2,199        | high           | low    | 4      | namesilo         |
-| banking.org      | resell    | $201,250   | $21.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| bank.ac          | resell    | —          | —             | high           | low    | 4      | 1API GmbH        |
 | bank.attorney    | premium   | $1,107     | $1,107        | high           | low    | 4      | namesilo         |
 | bank.barcelona   | available | $38.98     | —             | high           | low    | 4      | namecheap        |
-| bank.ac          | resell    | —          | —             | high           | low    | 4      | 1API GmbH        |
+| bank.agency      | resell    | —          | —             | high           | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 87,649 live domains                        |
+| 1,000-row public sample | 76,136 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 204 high-demand names under $2,500         |
+| Basic exported fields   | 125 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

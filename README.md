@@ -1,10 +1,10 @@
-# One-Word Banking Domain Names (207,749)
+# One-Word Banking Domain Names (208,582)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-207%2C749%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-208%2C582%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 176,177 one-word domain names tied to the banking theme, spanning 506 TLDs. The median asking price is near $730. Updated daily, it gives investors and founders a concrete set of banking-related domains to compare on price, TLD, and brandability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **207,749 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **208,582 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 207,749 domains · **Median ask:** $348.34 · **High-demand under $2,500:** 95
+**Public extract:** 1,000 rows · **Live catalog:** 208,582 domains · **Median ask:** $355.69 · **High-demand under $2,500:** 87
 
-**Last updated:** 2026-10-18
+**Last updated:** 2026-10-19
 **Canonical page:** `https://unique.domains/domains/sector/banking`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| bank.actor       | available | $8.48      | $35.39        | high           | medium | 4      | spaceship            |
-| bank.directory   | resell    | $118.80    | $118.80       | high           | medium | 4      | Atom.com Domains LLC |
-| bank.accountant  | premium   | $13,800    | $768          | high           | medium | 4      | namesilo             |
-| bank.airforce    | available | $122.48    | $149.98       | high           | medium | 4      | namecheap            |
-| loan.pro         | resell    | $9,568     | $33.99        | high           | low    | 4      | Porkbun LLC          |
-| bank.accountants | premium   | $414.20    | $414.20       | high           | medium | 4      | spaceship            |
-| bank.apartments  | available | $10.92     | $52.65        | high           | medium | 4      | dynadot              |
-| credit.luxe      | resell    | $19.49     | $19.49        | high           | low    | 6      | namesilo             |
-| bank.army        | premium   | $85.80     | $85.80        | high           | medium | 4      | namecheap            |
-| bank.audio       | available | $100.20    | $100.20       | high           | medium | 4      | cloudflare           |
-| account.autos    | resell    | $1.99      | —             | high           | low    | 7      | Dynadot Inc          |
-| bank.associates  | premium   | $512       | $512          | high           | medium | 4      | namesilo             |
-| bank.auto        | available | $2,070     | $2,950        | high           | medium | 4      | namecheap            |
-| banking.bio      | resell    | $9.99      | —             | high           | low    | 7      | name.com             |
-| bank.attorney    | premium   | $1,107     | $1,107        | high           | medium | 4      | namesilo             |
-| bank.barcelona   | available | $25.04     | $25.04        | high           | medium | 4      | spaceship            |
-| banking.co       | resell    | $19,380.95 | $48.99        | high           | low    | 7      | GoDaddy.com, LLC     |
-| bank.bar         | premium   | $3,260.45  | $4,657.70     | high           | medium | 4      | spaceship            |
-| bank.blackfriday | available | $107.22    | $107.22       | high           | medium | 4      | dynadot              |
-| banking.me       | resell    | $7,015     | $26.99        | high           | low    | 7      | Spaceship, Inc.      |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| bank.actor       | available | $16.99    | $44.49        | high           | medium | 4      | namesilo             |
+| bank.directory   | resell    | $118.80   | $118.80       | high           | medium | 4      | Atom.com Domains LLC |
+| bank.accountant  | premium   | $13,800   | $768          | high           | medium | 4      | namesilo             |
+| bank.airforce    | available | $92.17    | $92.17        | high           | medium | 4      | porkbun              |
+| loan.pro         | resell    | $9,568    | $33.99        | high           | low    | 4      | Porkbun LLC          |
+| bank.accountants | premium   | $512      | $512          | high           | medium | 4      | namesilo             |
+| bank.apartments  | available | $10.81    | $50.98        | high           | medium | 4      | porkbun              |
+| banking.contact  | resell    | $16.78    | —             | high           | low    | 7      | Dynadot Inc          |
+| bank.army        | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo             |
+| bank.audio       | available | $107.22   | $107.22       | high           | medium | 4      | dynadot              |
+| banking.money    | resell    | $128.70   | $128.70       | high           | low    | 7      | namecheap            |
+| bank.associates  | premium   | $440      | $440          | high           | medium | 4      | dynadot              |
+| bank.auto        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo             |
+| banking.org      | resell    | $201,250  | $21.99        | high           | low    | 7      | GoDaddy.com, LLC     |
+| bank.attorney    | premium   | $1,100    | $1,100        | high           | medium | 4      | dynadot              |
+| bank.barcelona   | available | $25.04    | $25.04        | high           | medium | 4      | spaceship            |
+| finance.dance    | resell    | $16.99    | $27.49        | high           | medium | 7      | NameCheap, Inc.      |
+| bank.bar         | premium   | $6,210    | $6,210        | high           | medium | 4      | namesilo             |
+| bank.blackfriday | available | $128.98   | $134.98       | high           | medium | 4      | namecheap            |
+| bank.ac          | resell    | —         | —             | high           | medium | 4      | 1API GmbH            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 207,749 live domains                                 |
+| 1,000-row public sample | 208,582 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 95 high-demand names under $2,500                    |
+| Basic exported fields   | 87 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Banking Domain Names*. Version 2026-10-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Banking Domain Names*. Version 2026-10-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| bank.actor       | available | $10.92     | $40.88        | high           | medium | 4      | dynadot              |
-| bank.directory   | resell    | $118.80    | $118.80       | high           | medium | 4      | Atom.com Domains LLC |
-| bank.accountant  | premium   | $13,800    | $768          | high           | medium | 4      | namesilo             |
-| bank.airforce    | available | $80.20     | $80.20        | high           | medium | 4      | cloudflare           |
-| credit.luxe      | resell    | $19.49     | $19.49        | high           | low    | 6      | namesilo             |
-| bank.accountants | premium   | $512       | $512          | high           | medium | 4      | namesilo             |
-| bank.apartments  | available | $10.92     | $52.65        | high           | medium | 4      | dynadot              |
-| banking.bio      | resell    | $9.99      | —             | high           | low    | 7      | name.com             |
-| bank.army        | premium   | $78.54     | $78.54        | high           | medium | 4      | namesilo             |
-| bank.audio       | available | $93.35     | $103.40       | high           | medium | 4      | spaceship            |
-| banking.co       | resell    | $19,380.95 | $48.99        | high           | low    | 7      | GoDaddy.com, LLC     |
-| bank.associates  | premium   | $414.20    | $414.20       | high           | medium | 4      | spaceship            |
-| bank.auto        | available | $2,140.22  | $2,140.22     | high           | medium | 4      | dynadot              |
-| banking.me       | resell    | $7,015     | $26.99        | high           | low    | 7      | Spaceship, Inc.      |
-| bank.attorney    | premium   | $1,100     | $1,100        | high           | medium | 4      | dynadot              |
-| bank.barcelona   | available | $25.04     | $25.04        | high           | medium | 4      | spaceship            |
-| banking.money    | resell    | $128.70    | $128.70       | high           | low    | 7      | namecheap            |
-| bank.bar         | premium   | $6,210     | $6,210        | high           | medium | 4      | namesilo             |
-| bank.blackfriday | available | $103.70    | $103.70       | high           | medium | 4      | spaceship            |
-| banking.org      | resell    | $201,250   | $21.99        | high           | low    | 7      | GoDaddy.com, LLC     |
+| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar            |
+| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| bank.actor       | available | $10.92      | $40.88        | high           | medium | 4      | dynadot              |
+| bank.directory   | resell    | $118.80     | $118.80       | high           | medium | 4      | Atom.com Domains LLC |
+| bank.accountant  | premium   | $13,800     | $768          | high           | medium | 4      | namesilo             |
+| bank.airforce    | available | $80.20      | $80.20        | high           | medium | 4      | cloudflare           |
+| banking.co       | resell    | $19,380.95  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC     |
+| bank.accountants | premium   | $512        | $512          | high           | medium | 4      | namesilo             |
+| bank.apartments  | available | $10.92      | $52.65        | high           | medium | 4      | dynadot              |
+| banking.contact  | resell    | $16.78      | —             | high           | low    | 7      | Dynadot Inc          |
+| bank.army        | premium   | $78.54      | $78.54        | high           | medium | 4      | namesilo             |
+| bank.audio       | available | $93.35      | $103.40       | high           | medium | 4      | spaceship            |
+| banking.money    | resell    | $128.70     | $128.70       | high           | low    | 7      | namecheap            |
+| bank.associates  | premium   | $414.20     | $414.20       | high           | medium | 4      | spaceship            |
+| bank.auto        | available | $2,140.22   | $2,140.22     | high           | medium | 4      | dynadot              |
+| finance.dance    | resell    | $16.99      | $27.49        | high           | medium | 7      | NameCheap, Inc.      |
+| bank.attorney    | premium   | $1,100      | $1,100        | high           | medium | 4      | dynadot              |
+| bank.barcelona   | available | $25.04      | $25.04        | high           | medium | 4      | spaceship            |
+| investment.io    | resell    | $250,698.85 | $59.99        | high           | medium | 10     | Divido Ltd           |
+| bank.bar         | premium   | $6,210      | $6,210        | high           | medium | 4      | namesilo             |
+| bank.blackfriday | available | $103.70     | $103.70       | high           | medium | 4      | spaceship            |
+| bank.ac          | resell    | —           | —             | high           | medium | 4      | 1API GmbH            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
